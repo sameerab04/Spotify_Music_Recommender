@@ -85,6 +85,9 @@ This project also addresses the following key questions:
   - Selected top matches and removed duplicates to refine recommendations.
 - **Outcome**: Generated personalized song recommendations based on user listening habits, while also offering slightly diverse options to introduce users to new artists and songs.
 
+
+<img width="844" alt="Screenshot 2024-03-08 at 12 50 39 PM" src="https://github.com/sameerab04/Spotify_Music_Recommender/assets/52090771/e3a239ca-1ae7-452f-8b1c-cd4b58fa6b7f">
+
 ## Conclusion
 
 ### Key Takeaways:
@@ -107,5 +110,3 @@ Clone the repository:
 git clone https://github.com/sameerab04/Spotify_Music_Recommender.git
 ```
 
-
-<img width="844" alt="Screenshot 2024-03-08 at 12 50 39 PM" src="https://github.com/sameerab04/Spotify_Music_Recommender/assets/52090771/e3a239ca-1ae7-452f-8b1c-cd4b58fa6b7f">
