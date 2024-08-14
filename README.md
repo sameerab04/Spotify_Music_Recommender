@@ -16,7 +16,6 @@ This project is focused on building a music recommender system using data from S
 - [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
 - [Repository Structure](#repository-structure)
-- [Contributors](#contributors)
 
 ## Project Objective and Dataset Selection
 
