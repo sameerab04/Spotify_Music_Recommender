@@ -107,7 +107,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/sameerab04/Spotify_Music_Recommender.git
-
+```
 
 
 <img width="844" alt="Screenshot 2024-03-08 at 12 50 39 PM" src="https://github.com/sameerab04/Spotify_Music_Recommender/assets/52090771/e3a239ca-1ae7-452f-8b1c-cd4b58fa6b7f">
