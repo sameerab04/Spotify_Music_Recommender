@@ -76,6 +76,11 @@ This project also addresses the following key questions:
   - Recommended artists to users based on the structure of this graph.
 - **Example Workflow**: Given a user’s favorite songs, the system recommends similar artists by analyzing the collaboration graph.
 
+<img width="844" alt="Screenshot 2024-03-08 at 12 50 39 PM" src="https://github.com/sameerab04/Spotify_Music_Recommender/assets/52090771/e3a239ca-1ae7-452f-8b1c-cd4b58fa6b7f">
+
+The image above illustrates the step-by-step process for generating artist and song recommendations through graph mining.
+
+
 ### Solution 3: Song Recommender System
 
 - **Objective**: Provide song recommendations using content-based filtering.
@@ -84,9 +89,6 @@ This project also addresses the following key questions:
   - Calculated cosine similarity to find the most similar songs.
   - Selected top matches and removed duplicates to refine recommendations.
 - **Outcome**: Generated personalized song recommendations based on user listening habits, while also offering slightly diverse options to introduce users to new artists and songs.
-
-
-<img width="844" alt="Screenshot 2024-03-08 at 12 50 39 PM" src="https://github.com/sameerab04/Spotify_Music_Recommender/assets/52090771/e3a239ca-1ae7-452f-8b1c-cd4b58fa6b7f">
 
 ## Conclusion
 
